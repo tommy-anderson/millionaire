@@ -1,0 +1,18 @@
+{
+    "level1":[
+        {
+            "text":"Who is the president of Moldova?",
+            "wrong1":"Igor Cuciuc",
+            "wrong2":"Diana Gatcan",
+            "wrong3":"Ion Ceban",
+            "right":"Maia Sandu"
+        },
+        {
+            "text":"Who is Lebron James?",
+            "wrong1":"A male model",
+            "wrong2":"A soccer player",
+            "wrong3":"Mayor of Brasov",
+            "right":"A basketball player"
+        }
+    ]
+}
